@@ -1,20 +1,20 @@
-Ejercitaci髇 1:
+Ejercitaci贸n 1:
 
-1. HTML es un lenguaje de marcado para la elaboraci髇 de p醙inas web. Su origen se remonta a 1980 cuando el f韘ico Tim Berners-Lee propuso un nuevo sistema de "hipertexto" para compartir documentos, la primera propuesta oficial para convertir el HTML en un est醤dar fue en 1993. Las versiones son: HTML 1.0, HTML 2.0, HTML 3.2, HTML 4.0, HTML 4.01, XHTML y la 鷏tima versi髇 es el HTML5.
-2. Los principios b醩icos que recomienda la W3C para la creaci髇 de documentos de HTML son:  
-	-Separar estructura y presentaci髇  
+1. HTML es un lenguaje de marcado para la elaboraci贸n de p谩ginas web. Su origen se remonta a 1980 cuando el f铆sico Tim Berners-Lee propuso un nuevo sistema de "hipertexto" para compartir documentos, la primera propuesta oficial para convertir el HTML en un est谩ndar fue en 1993. Las versiones son: HTML 1.0, HTML 2.0, HTML 3.2, HTML 4.0, HTML 4.01, XHTML y la 煤ltima versi贸n es el HTML5.
+2. Los principios b谩sicos que recomienda la W3C para la creaci贸n de documentos de HTML son:  
+	-Separar estructura y presentaci贸n  
 	-Considerar la accesibilidad universal a la Web  
-	-Ayudar con la representaci髇 incremental  
-3.Un elemento o atributo se encuentra desaprobado cuando existen alternativas con hojas de estilo. Un elemento o atributo se encuentra obsoleto cuando no hay garant韆 de soporte por parte de un agente de usuario.
-4. DTD es la definici髇 de todas las declaraciones de elementos y atributos. Los DTD contemplados en las especificaciones de HTML 4.01 son
+	-Ayudar con la representaci贸n incremental  
+3.Un elemento o atributo se encuentra desaprobado cuando existen alternativas con hojas de estilo. Un elemento o atributo se encuentra obsoleto cuando no hay garant铆a de soporte por parte de un agente de usuario.
+4. DTD es la definici贸n de todas las declaraciones de elementos y atributos. Los DTD contemplados en las especificaciones de HTML 4.01 son
 	-El DTD HTML 4.01 Estricto (Strict DTD) incluye todos los elementos y atributos que no han sido desaprobados o que no aparecen en documentos con marcos. 
-	-El DTD HTML 4.01 Transicional (Transitional DTD) incluye todo l o que incluye el DTD estricto m醩 los elementos y atributos desaprobados (la mayor韆 de los cuales est醤 relacionados con l a presentaci髇 visual). 
-	-El DTD HTML 4.01 para Documentos con Marcos (Frameset DTD incluye todo lo que incluye el DTD Transicional m醩 los marcos.  
-5. Si el HTML de su p醙ina web son datos, los metadatos son informaci髇 adicional que se utilizan para explicar varias cosas sobre ese HTML, como: La versi髇 de HTML que utiliza una p醙ina web,el t韙ulo de una p醙ina web. Estos metadatos se especifican en HTML utilizando el elemento META.
+	-El DTD HTML 4.01 Transicional (Transitional DTD) incluye todo l o que incluye el DTD estricto m谩s los elementos y atributos desaprobados (la mayor铆a de los cuales est谩n relacionados con l a presentaci贸n visual). 
+	-El DTD HTML 4.01 para Documentos con Marcos (Frameset DTD incluye todo lo que incluye el DTD Transicional m谩s los marcos.  
+5. Si el HTML de su p谩gina web son datos, los metadatos son informaci贸n adicional que se utilizan para explicar varias cosas sobre ese HTML, como: La versi贸n de HTML que utiliza una p谩gina web,el t铆tulo de una p谩gina web. Estos metadatos se especifican en HTML utilizando el elemento META.
 
-Ejercitaci髇 2: 
+Ejercitaci贸n 2: 
 
-a) Se puede poner en cualquier p鄏te del c騞igo
+a) Se puede poner en cualquier p脿rte del c貌digo
 El efecto que produce es un comentario
 No tiene etiquetas ni atributos
 
@@ -26,7 +26,7 @@ El atributo no es obligatorio
 c) Se pone en el body
 Muestra una imagen en pantalla
 Etiqueta img Atributos src, alt, id, name, width, height, longdesc
-El atributo src es obligatorio, los dem鄐 no
+El atributo src es obligatorio, los dem脿s no
 
 d) Se pone en el head
 Establece palabras clave
@@ -34,7 +34,7 @@ Etiqueta meta atributos name, lang, content, http-equiv Valores name="keywords" 
 Atributos name y content obligatorios 
 
 e) Se pone en el body 
-Crea un hiperv靚culo
+Crea un hiperv矛nculo
 Etiqueta a Atributos href, hreflang, charset, rel Valores href="http://www.e-style.com.ar/resumen.html" type="text/html" hreflang="es" charset="utf-8"
 rel="help"
 El atributo href es obligatorio
@@ -44,12 +44,12 @@ Crea una tabla
 Etiquetas table, caption, th, tr Atributos width, summary, align, scope Valores width="200" summary="Datos correspondientes al ejercicio vencido" align="top" cope="col" scope="row"
 No hay atributos obligatorios
 
-Ejercitaci髇 3
+Ejercitaci贸n 3
 
 a)
-El primer segmento de c骴igo abre google en la misma p醙ina, el segundo abre google en una nueva pesta馻, el tercero es un hiperv靚culo hacia google pero que no se visualiza
-en pantalla, el cuarto muestra el texto en formato de hiperv韓culo pero no redirige a ning鷑 lado, el quinto te lleva a un sector previamente declarado de la p醙ina, y el 鷏timo
-es la declaraci髇 de ese sector.
+El primer segmento de c贸digo abre google en la misma p谩gina, el segundo abre google en una nueva pesta帽a, el tercero es un hiperv矛nculo hacia google pero que no se visualiza
+en pantalla, el cuarto muestra el texto en formato de hiperv铆nculo pero no redirige a ning煤n lado, el quinto te lleva a un sector previamente declarado de la p谩gina, y el 煤ltimo
+es la declaraci贸n de ese sector.
 
 b) 
 El primer segmento te lleva a google clickeando el texto, el segundo te lleva a google clickeando la imagen, el tercero y cuarto te llevan a google clickeando la imagen o el texto.
@@ -59,37 +59,36 @@ El primer segmento muestra una lista desordenada, el segundo muestra una lista o
 que simula ser una lista ordenada.
 
 d) 
-Ambos segmentos de c骴igo muestran una tabla, con la diferencia que en la primera, los encabezados son una l韓ea, y en la segunda, los encabezados son bloques (divs).
+Ambos segmentos de c贸digo muestran una tabla, con la diferencia que en la primera, los encabezados son una l铆nea, y en la segunda, los encabezados son bloques (divs).
 
 e)
-Ambos segmentos de c骴igo muestran una tabla, con la diferencia que la primera es una tabla declarada de forma habitual, mientras que la segunda usa una fila de la tabla
+Ambos segmentos de c贸digo muestran una tabla, con la diferencia que la primera es una tabla declarada de forma habitual, mientras que la segunda usa una fila de la tabla
 como encabezado. 
 
 
 
 
 f) 
-Ambos segmentos de c骴igo muestran una tabla, con la diferencia que en la primera se unen dos filas mediante el atributo rowspan, y en la segunda se unen dos columnas mediante
+Ambos segmentos de c贸digo muestran una tabla, con la diferencia que en la primera se unen dos filas mediante el atributo rowspan, y en la segunda se unen dos columnas mediante
 el atributo colspan.
 
 g) 
-Ambos segmentos de c骴igo muestran una tabla, con la particularidad que el segundo c骴igo aplica estilos.
+Ambos segmentos de c贸digo muestran una tabla, con la particularidad que el segundo c贸digo aplica estilos.
 
 h) 
-Los tres segmentos de c骴igo son formularios que simulan un inicio de sesi髇. Las diferencias son: El primero ya tiene valores por defecto en los campos mientras que los otros dos no, 
-los primeros dos c骴igos abren una nueva pesta馻 al hacer submit, mientras que el tercero no ya que el input tiene el type="reset", y, adem醩, el segundo c骴igo es inseguro pues la clave es de tipo "text", y se visualizan los datos enviados por el m閠odo "get". 
+Los tres segmentos de c贸digo son formularios que simulan un inicio de sesi贸n. Las diferencias son: El primero ya tiene valores por defecto en los campos mientras que los otros dos no, 
+los primeros dos c贸digos abren una nueva pesta帽a al hacer submit, mientras que el tercero no ya que el input tiene el type="reset", y, adem谩s, el segundo c贸digo es inseguro pues la clave es de tipo "text", y se visualizan los datos enviados por el m茅todo "get". 
 
 i) 
-Ambos c骴igos muestran un bot髇, con la diferencia que el primero es un bot髇 con una imagen dentro de 閘 y un texto, y el segundo s髄o tiene texto dentro de 閘.
+Ambos c贸digos muestran un bot贸n, con la diferencia que el primero es un bot贸n con una imagen dentro de 茅l y un texto, y el segundo s贸lo tiene texto dentro de 茅l.
 
 j) 
-El primer c骴igo genera 2 radio buttons en los cuales solo se puede marcar una opci髇, mientras que el segundo c骴igo genera 2 radio buttons en los cuales se pueden seleccionar
+El primer c贸digo genera 2 radio buttons en los cuales solo se puede marcar una opci贸n, mientras que el segundo c贸digo genera 2 radio buttons en los cuales se pueden seleccionar
 ambas opciones. Esto es debido a los valores del atributo name. 
 
 k) 
-Ambos c骴igos permiten seleccionar un mes, con la diferencia que el primero despliega un acorde髇 con las opciones, y el segundo muestra las opciones en forma de lista.
+Ambos c贸digos permiten seleccionar un mes, con la diferencia que el primero despliega un acorde贸n con las opciones, y el segundo muestra las opciones en forma de lista.
 
 
 
 
-4) 

@@ -1,0 +1,24 @@
+Ejercitación 1 - Responder el siguiente cuestionario
+1y3. ¿Ventajas de HTML5?
+	Es gratuito
+	Código más ordenado
+	Compatibilidad en navegadores
+	Almacenamiento mejorado
+	Diseño adaptativo- Compatible con navegadores móviles, por ejemplo.
+2. ¿Por qué utilizarlo?
+	Porque es el estándar de estructuración de páginas web a día de hoy y es interpretado por todos los navegadores.
+Ejercitación 2
+2.A) ¿Qué formatos soporta?
+	WAV.
+	MP3
+	AAC
+	Webm
+	ogg
+2.B) Crear un elemento audio
+Ejercitación 3
+3.A) ¿Qué formatos soporta?
+	MP4
+	Webm
+	ogg
+3.B) Crear un elemento video
+
